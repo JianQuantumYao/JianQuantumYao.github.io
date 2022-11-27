@@ -1,4 +1,3 @@
-# JianQuantumYao.github.io
 # Jian Yao  (姚健)
 ## About me
 - I am a undergrate student at Department of Physics, Southern University of Science and Technology, and I will get a bachelor's degree in 2024.
