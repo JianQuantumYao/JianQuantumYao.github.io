@@ -15,7 +15,7 @@
 - Organizer of 2021 get-together for students from Jiangxi province in Sustech.
 ## Publication
 - F. Wei-Qiang, Z. Tian-Yu, **Y. Jian**, C. Ruo-Fei, and L. Zi-Yan, "Novel Earth Pressure Cell with Double FBG-based Diaphragms for Measuring Vertical and Lateral Effective Stresses in Seabed Soils," in _26th Optoelectronics and Communications Conference_, P. Alexander Wai, H. Tam, and C. Yu, eds., OSA Technical Digest (Optica Publishing Group, 2021), paper W4D.5.
-- "Optimize the discrimination of complex and real theories", paper in prepartion, part of work was displayed as a poster at CPS 2022 (Annual Meeting of Chinese Physical Society 2022), the poster can be viewed on here <http://meeting.cps-net.org.cn/upload/m_2/png/2022/11/17/20221117234202245087.png>.
+- "Optimize the discrimination of complex and real theories", paper in prepartion, part of work was displayed as a poster at CPS 2022 (Annual Meeting of Chinese Physical Society 2022), the poster can be viewed here <http://meeting.cps-net.org.cn/upload/m_2/png/2022/11/17/20221117234202245087.png>.
 ## Honors and Awards
 - First prize(Jiangxi Competition area) of 35th and 36th Chinese Physics Olympics competition.
 - President scholarship.
